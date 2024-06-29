@@ -1,5 +1,4 @@
 from pages.MainPage import MainPage
-from conftest import chrome
 
 
 class TestMainPage:
